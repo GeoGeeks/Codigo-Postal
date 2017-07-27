@@ -1,4 +1,4 @@
-#Código Postal
+# Código Postal
 ================
 
 En este repositorio encontrarás un ejemplo de como agregar una capa a un mapa con el API de ArcGIS para JavaStript, además de como mostrar información asociada a cada uno de los poligonos de la capa.
